@@ -1,12 +1,11 @@
-const fs = require("fs");
+const fs = require('fs')
 const path = require('path')
 
 //文件夹地址
-const handFilePath = path.resolve(`E:\\xxxxxxxxxxxxxxxxx`)
+const handFilePath = path.resolve(`E:\xxxxx`)
 
 // 需要过滤的文字水印
-const filterName = 'www.baidu.com'
-
+const filterName = '11111111'
 
 deepReadFiles(handFilePath)
 
