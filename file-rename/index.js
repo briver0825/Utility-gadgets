@@ -3,7 +3,7 @@ const fs = require("fs")
 //需要批量修改的文件夹路径
 const rootPath = `C:\\Users\\xxxxx`
 // 需要过滤的文字水印
-const filterContent = "_666"
+const filterContent = "___"
 // 替换的内容
 const replaceContent = ""
 
